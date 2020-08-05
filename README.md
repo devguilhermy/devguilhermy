@@ -4,5 +4,5 @@ My name is Guilhermy and I am from Brazil (🇧🇷). I've been working as Devel
 
 Would you like to find me?
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermycamargo)](https://www.linkedin.com/in/guilhermycamargo)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermy-camargo-2b0b2618a/)](https://www.linkedin.com/in/guilhermy-camargo-2b0b2618a/)
 
