@@ -6,7 +6,7 @@ Tenho formação de Técnico de Informática pelo Insitituto Federal Goiano (201
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermy-camargo-2b0b2618a/)](https://www.linkedin.com/in/guilhermy-camargo-2b0b2618a/)
 
 #### 💡 Sobre mim
-> Sou apaixonado por desenvolver aplicações que resolvem problemas da vida real e tragam valor para as pessoas. E no meu tempo livre gosto de programar, ler, criar e trabalhar em ideias.
+> Sou apaixonado por desenvolver aplicações que resolvem problemas da vida real e tragam valor para as pessoas. E no meu tempo livre gosto de programar, ler, criar ideias e trabalhar nos meus projetos.
 
 #### 💼 Experiências
 - Bolsista em projeto de pesquisa com objetivo de investigar a utilidade do uso de Informática em saúde. (2016-2017)
