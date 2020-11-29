@@ -11,7 +11,7 @@ Tenho formação de Técnico de Informática pelo Instituto Federal Goiano (2017
 
 ### Hi there 👋
 
-My name is Guilhermy and I am from Brazil (🇧🇷). I am working on a project called Moblyt.
+My name is Guilhermy and I am from Brazil (🇧🇷). I am working my project Moblyt.
 I have a Informatics Technician degree at the Goiano Federal Institute and I am currently attending Software Engineering at the Federal University of Goiás.
 
 
