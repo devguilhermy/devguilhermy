@@ -1,5 +1,5 @@
 ### Olá 👋
-Meu nome é Guilhermy e atualmente trabalho no meu aplicativo Moblyt
+Meu nome é Guilhermy e atualmente trabalho no meu aplicativo Moblit
 
 Tenho formação de Técnico de Informática pelo Instituto Federal Goiano (2017), e atualmente curso Engenharia de Software na Universidade Federal de Goiás.
 
